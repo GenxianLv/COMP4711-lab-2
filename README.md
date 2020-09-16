@@ -1,1 +1,3 @@
-# COMP4711-lab-2
+# COMP4711-lab2
+
+Comp4711-lab2
